@@ -1,4 +1,3 @@
 hello world
-git is a veersion control system.
-git is free software.
-
+git is big but a veersion control system.
+git is not free software.
